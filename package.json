@@ -1,0 +1,15 @@
+{
+  "name": "dotfiles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install": "zx ./index.mjs"
+  },
+  "keywords": [],
+  "author": "G. Rodriguez <g@activetheory.net> (https://activetheory.net)",
+  "license": "ISC",
+  "dependencies": {
+    "zx": "^2.0.0"
+  }
+}
